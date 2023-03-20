@@ -6,3 +6,46 @@ Green: #00B172
 White: #FFF
 
 */
+body {
+    background-color: white;
+}
+
+header {
+    font-size: 50%;
+}
+
+header img {
+    padding: 5px;
+    width: 150px;
+}
+
+.container_header_big {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container_header {
+    list-style-type: none; 
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+header div li {
+    padding: 0px 10px 0px 0px;
+    font-size: 15px; 
+}
+
+.section_I {
+
+}
+
+.section_II {
+
+}
+
+.section_III {
+
+}
